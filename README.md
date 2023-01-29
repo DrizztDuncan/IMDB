@@ -16,7 +16,7 @@ Get the IMDb data from API
 
 ## Screenshots
 
-
+![screenshot](https://github.com/DrizztDuncan/IMDb/blob/main/IMDb-screenshot.gif)
 
 ## Acknowledgements
 
